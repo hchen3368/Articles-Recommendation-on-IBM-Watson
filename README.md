@@ -28,8 +28,8 @@ To this end, we explore different approach of recommendation:
 
 - Ranked-based Recommendation （“Popular/Trending...”）.
 - Neighbor-based Collaborative Filtering (“People Like You Also Viewed...").
-- User-Item Collaborative Filtering.
-- Content-based Collaborative Filtering. ("Based on your reading history...")
+- User-Item Collaborative Filtering. ("A Machine Thinks You Will Like...")
+- Content-based Collaborative Filtering. ("Based on Your Reading History...")
 
 ## File Descriptions <a name="files"></a>
 
@@ -64,6 +64,8 @@ To this end, we explore different approach of recommendation:
 This project was inspired by the Udacity Data Science Nanodegree Program.
 
 The initial dataset was provided through the program, thanks to the IBM Watson Studio API.
+
+The title image source: [Watson Studio Website](https://developer.ibm.com/components/watson-studio/articles/).
 
 
 ## Licensing <a name="licensing"></a>
